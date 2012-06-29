@@ -11,7 +11,7 @@
 #cd ..; \
 #tar -Jcf python-edje-$PKG_VERSION.tar.xz python-edje/ --exclude .svn --exclude .*ignore
 
-%define svnrev  65723
+%define svnrev  72151
 
 Summary:	Edje bindings for Python 
 Name:		python-edje
